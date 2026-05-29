@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevrocess",
+        "uuid": 1006096,
+        "checksum": "1mm0tt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
